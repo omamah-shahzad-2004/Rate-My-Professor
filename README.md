@@ -1,1 +1,1 @@
-## Rate My Professor AI Assistant
+# Rate-My-Professor-AI-Assistant
